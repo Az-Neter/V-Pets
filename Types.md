@@ -8,6 +8,7 @@
 * D-Terminal
 * D-Ark (D-Power)
 * D-Scanner (D-Tector)
+* PenP
 * DM20
 * Pen20
 * DMX
