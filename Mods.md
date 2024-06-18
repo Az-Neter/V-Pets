@@ -2,7 +2,7 @@
 
 * Backlight Mod
 * Background Mod
-* Oscillator Mod
+* Oscillator Mod (Overclock / Underclock)
 * Case Mod / Swap
 * Button Swap
 * Screen Swap
