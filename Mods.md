@@ -10,3 +10,4 @@
 * Firmware Hack
 * Speaker Boost Mod
 * Speaker LED Mod
+* Domed Switches (Bad Idea, Avoid)
