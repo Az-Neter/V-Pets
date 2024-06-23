@@ -9,5 +9,5 @@
 * Screen Invert
 * Firmware Hack
 * Speaker Boost Mod
-* Speaker LED Mod
+* [Speaker LED Mod](https://github.com/Az-Neter/V-Pets/blob/main/LED%20Speaker%20Mod.jpg)
 * Domed Switches (Bad Idea, Avoid)
